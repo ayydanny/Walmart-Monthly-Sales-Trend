@@ -26,14 +26,6 @@ This project focused on transforming weekly sales into monthly sales and aggrega
 
 <img width="1353" height="598" alt="Dashboard" src="https://github.com/user-attachments/assets/b80a80e5-2c5d-48b7-955c-4deb3c1c0038" />
 
-**Recommendations**  
-
-- **Prioritize holiday-focused sales strategies**  
-  Walmart should continue prioritizing inventory planning, promotions, and staffing during the November–December period, as sales consistently peak during these months regardless of temperature trends.
-
-- **Avoid over-weighting temperature in high-level sales forecasting**  
-  At an aggregate level, temperature should not be treated as a primary driver of monthly sales trends, as sales patterns remain relatively stable across seasonal temperature changes.
-
 **Limitations + further development**  
 
 - **Conduct store-level seasonal analysis to capture regional climate effects**  
